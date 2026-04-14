@@ -3,7 +3,7 @@
 This project presents a machine learning workflow for predicting Alzheimer’s disease risk using tabular clinical and demographic data.
 
 ## Open in Google Colab
-[Open in Google Colab] https://colab.research.google.com/github/zpempera/Alzheimer-s-Disease-Risk-Prediction/blob/main/notebooks/Alzheimer’s_Disease_Risk_Prediction.ipynb
+[Open in Google Colab] (https://colab.research.google.com/github/zpempera/Alzheimer-s-Disease-Risk-Prediction/blob/main/notebooks/Alzheimer’s_Disease_Risk_Prediction.ipynb) 
 
 ## Project overview
 
