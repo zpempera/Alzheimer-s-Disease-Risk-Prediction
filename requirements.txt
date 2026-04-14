@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+scipy
+mlxtend
+imbalanced-learn
+missingno
+matplotlib
+jupyter
